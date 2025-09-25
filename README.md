@@ -33,7 +33,7 @@ git clone https://github.com/Sarfarazshaikh08/book-finder.git
 cd book-finder
 npm install
 npm start
-
+npm test
 ---
 
 ## 📖 Notes
