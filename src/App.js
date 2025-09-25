@@ -126,7 +126,7 @@ export default function BookFinder() {
               type="submit"
               className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transform transition duration-300 hover:scale-105"
             >
-              Search
+              Search Books
             </button>
           </form>
 
